@@ -1,4 +1,4 @@
-![](banner.png)
+![](banner.jpeg)
 
 <!--
 **KshitijTeotia06/KshitijTeotia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
